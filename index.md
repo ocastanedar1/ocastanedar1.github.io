@@ -10,7 +10,8 @@ This page proposal is showing several projects in [Master in Data Analytics](htt
 <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top img-fluid" alt="Datafolio in Dash" src="https://raw.githubusercontent.com/ocastanedar1/ocastanedar1.github.io/master/assets/img/datafilio-project.png" data-holder-rendered="true">
+                          <a href="https://github.com/ocastanedar1/VisualizacionDatos/tree/main/datafolio">
+                <img class="card-img-top img-fluid" alt="Datafolio in Dash" src="https://raw.githubusercontent.com/ocastanedar1/ocastanedar1.github.io/master/assets/img/datafilio-project.png" data-holder-rendered="true"> </a>
                 <div class="card-body">
                   <p class="card-text">
                               <a href="https://github.com/ocastanedar1/VisualizacionDatos/tree/main/datafolio">Datafolio in Dash</a>
