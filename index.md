@@ -10,9 +10,9 @@ This page proposal is showing several projects in [Master in Data Analytics](htt
 <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" alt="Datafolio in Dash" style="height: 225px; width: 100%; display: block;" src="" data-holder-rendered="true">
+                <img class="card-img-top" alt="Datafolio in Dash" style="height: 225px; width: 100%; display: block;" src="assets/img/datafolio-project.png" data-holder-rendered="true">
                 <div class="card-body">
-                  <p class="card-text">[Datafolio in Dash]()</p>
+                  <p class="card-text">[Datafolio in Dash](https://github.com/ocastanedar1/VisualizacionDatos/tree/main/datafolio)</p>
                   <div class="d-flex justify-content-between align-items-center">
                    <button type="button" class="btn btn-sm">View</button>
                   </div>
